@@ -1,0 +1,18 @@
+CUSTOM SONG & PHOTOS GUIDE / APOLOGY SITE:
+
+METHOD 1 (Easiest - Direct In-Browser Upload):
+- Click on the "Upload Photos & Song" button in the website header or bottom widget.
+- Select your MP3 file directly from your phone or PC.
+- Select your photos for the Hero avatar and Polaroid memories.
+- Click "Save & Update Site ❤️" - it will instantly play your song and display your pictures!
+
+METHOD 2 (Static Files in /public folder):
+- Put your song file named: `song.mp3` in this `/public` folder.
+- Put your photos named:
+  - `hero.jpg` (for the round profile picture)
+  - `photo1.jpg` (Photo 1)
+  - `photo2.jpg` (Photo 2)
+  - `photo3.jpg` (Photo 3)
+  - `photo4.jpg` (Photo 4)
+inside this `/public` folder.
+The website will automatically load them!
